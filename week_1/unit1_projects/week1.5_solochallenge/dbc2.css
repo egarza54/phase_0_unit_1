@@ -1,0 +1,51 @@
+html{
+	background-color: gray;
+}
+
+img{
+	margin: auto;
+	width: 100%;
+}
+
+body{
+	background-color: white;
+	margin:auto;
+	width: 100%;
+	height: 100%;
+}
+
+.section {
+	float: left;
+	margin: 0 1.5%;
+	width: 63%;
+}
+
+.aside{
+	float: right;
+	margin: 0 1.5%;
+	width: 30%;
+}
+
+
+.blue{
+	color: blue;
+}
+
+#footer{
+	text-align: center;
+	clear: both;
+	margin-bottom: 0;
+}
+
+
+.align-left{
+	text-align: left;
+	width: 550px;
+	height: 100%;
+	margin-left: 5px;
+	padding-left: 10px;
+}
+
+
+
+
