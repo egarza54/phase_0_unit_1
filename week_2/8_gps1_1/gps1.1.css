@@ -1,1 +1,59 @@
 /* include your css here */
+
+        .name{
+            font-family:'Quicksand', sans-serif;
+            text-align: center;
+            }
+            
+        .navbar{
+            margin: auto;
+            text-align:center;
+        }
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li{
+            display:inline-block;
+            width: 150px;
+            background-color: #C5D8D2;
+        }
+        a{
+            text-decoration: none;
+            font-family:'Quicksand', sans-serif;
+        }
+        
+        p, h1, h2{
+            font-family:'Quicksand', sans-serif;
+        }
+        
+        .sidebar{
+            float:left;
+            display: inline-block;
+            width: 20%;
+            margin: 10px 10px 0px 40px;
+            padding: 4px;
+            text-align:center;
+            overflow:hidden;
+            
+        }
+        
+        .content{
+            width: 65%;
+            border: 2px solid grey;
+            display: inline-block;
+            margin: 10px 10px 0px 0px;
+            padding: 4px;
+            overflow:scroll;
+            text-align:left;
+        }
+        
+        .pic{
+            width:50%;
+            margin-left:150px;
+        }
+        
+        html{
+            background-color: #9FBDBF;
+        }
