@@ -89,9 +89,12 @@
 
 // Reflection:
 // Write your reflection here.
-This was a cool exercise. It had me thinking how to approach a solution rather than the problem, making me 
-become proactive in identifying the steps I needed to create the solution. 
-
+// This was a cool exercise. It had me thinking how to approach a solution rather than the problem, making me 
+// become proactive in identifying the steps I needed to create the solution. Understanding what each command does is a bit confusing
+// I'm assuming that the "this" is telling the program where a function should be called. In this case "this" would be
+// the character on the screen. Telling him to do "this." The () is the input of the function. The paranthesis is needed 
+// for the function to acutally operate. So if the soldier says something the () is used to tell him specifically what to say. 
+// Overall it was a fun exercise, but I'm looking forward to learning more about java
 
 
 
