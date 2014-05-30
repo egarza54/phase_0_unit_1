@@ -17,21 +17,58 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {};
 
+adam.name = "Adam";
 
+terah.spouse = adam;
 
+terah.weight = 125;
 
+delete terah.eyeColor;
 
+adam.spouse = terah;
+
+terah.children = {};
+
+var Children = {
+  carson: {name: "Carson"},
+  carter: {name: "Carter"},
+  colton: {name: "Colton"}
+}
+
+terah.children = Children;
+
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// Talk about racking my brain. This challenge took a lot longer than I wanted it to take. At first I was creating 
+// It took me a long while before truely understanding the instrucitons of this challege. Before that, I had created two 
+// new odjects; one for Adam the other for Terah. Completely independent of the code above the task, to my surprise, 
+// this didn't work. My orginial code is below:
+
+// var terah = {
+//   name: "Terah",
+//   age: 32,
+//   height: 66,
+//   weight: 130,
+//   hairColor: "brown",
+//   spouse: adam,
+//   childern: {carson: {name: "Carson"}, carter: {name: "Carter"}, colton: {name: "Colton"},}
+// }
+
+// var adam = {
+//   name: "Adam",
+//   spouse: tereh,
+//   childern: terah.childern
+// }
+
+
+// After awhile, I completely deleted my code, just so I can a fresh start and look at it from a different angle. Then, on a 
+// whim, I decided to look up how to push new properties into an object, hoping that this would work. Which is the code you 
+// see below. I learned a very important lesson here... Pseudocode works...
 
 
 // __________________________________________
