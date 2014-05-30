@@ -1,4 +1,4 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself
 
 // __________________________________________
 // Write your code below.
