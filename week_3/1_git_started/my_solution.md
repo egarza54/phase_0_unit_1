@@ -10,6 +10,7 @@ This command will build a new branch, or timeline of commits, of changes and fil
 
 #### checkout
 This command "checks out" a repository that you're not inside. It lets you move to teh repository you want to check. You use this command as "git checkout master" to look at the master branch, or "git checkout new" to look at another branch.
+
 #### clone
 Clone a repository into a new directory
 
