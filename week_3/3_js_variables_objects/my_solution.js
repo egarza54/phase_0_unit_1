@@ -3,21 +3,25 @@
 // __________________________________________
 // Write your code below.
 
+var secretNumber = 7;
 
+var password = "just open the door";
 
+var allowedIn = false;
 
+var members = ["John", "Mary"];
 
-
+var members = ["John", "Slavin", "Dales", "Mary", "Henns" ];
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// This was a pretty cool challenge. At first I copied and pasted the entire code into my browser, which gave 
+// of course gave me an error message. Only i didn't know what to do next. Then I thought of what my gps instructor
+// suggested and test each line of code one at a time. After that, the answer came out rather smoothly. I feel like
+// I cheated a little bit, deciding to go to codecademy and learn a little bit of javascript off the beaten path. 
+// It turned out better than expected. I feel like I have a good flow writing in java and I'm excited to learn how
+// to use it in my websites. 
 
 
 // __________________________________________
