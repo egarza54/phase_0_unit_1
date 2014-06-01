@@ -2,7 +2,7 @@
 
 // YOUR FULL NAMES:
 //  1. Edgar Garza
-//  2.Jeff Keslin
+//  2. Jeff Keslin
 
 
 // 0. "YOU SIGNED... WHO?!"
